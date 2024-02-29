@@ -1,4 +1,4 @@
-# machine-learning-course
+# Machine Learning Course
 
 This machine learning course was held in the second semester of 1402-1403 at the Faculty of Mathematics and Computer Science of Isfahan University with Professor Mohsen Alambardar and accompanied by Sina Jafari and Zahra Zare.
 
